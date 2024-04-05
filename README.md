@@ -1,4 +1,4 @@
- Electronic and Telecommunication Engineering Undergraduate at University of Moratuwa, Sri Lanka.
+ Electronic and Telecommunication Engineering Undergraduate at the University of Moratuwa, Sri Lanka.
 
 ## Interest Areas
 
