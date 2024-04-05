@@ -1,16 +1,15 @@
-### Hi there 👋
+ Electronic and Telecommunication Engineering Undergraduate at University of Moratuwa, Sri Lanka.
 
-<!--
-**pulinduvidmal/pulinduvidmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interest Areas
 
-Here are some ideas to get you started:
+- **Computer Vision**
+- **Signal Processing**
+- **Robotics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact Information
+
+- Email: pulinduvidmal552@gmail.com, vidmalhvp.21@uom.lk
+
+
+
