@@ -3,9 +3,11 @@
 ## Interest Areas
 
 - **Computer Vision**
+- **Machine Learning**
+- **Neural Language Processing**
 - **Signal Processing**
 - **Robotics**
-- **Netwoking**
+
 
 
 ## Contact Information
