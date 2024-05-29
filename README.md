@@ -2,11 +2,9 @@
 
 ## Interest Areas
 
-- **Computer Vision**
 - **Machine Learning**
+- **Computer Vision**
 - **Robotics**
-- **Signal Processing**
-
 
 
 
