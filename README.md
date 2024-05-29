@@ -4,9 +4,9 @@
 
 - **Computer Vision**
 - **Machine Learning**
-- **Neural Language Processing**
-- **Signal Processing**
 - **Robotics**
+- **Signal Processing**
+
 
 
 
