@@ -5,7 +5,6 @@
 - **Machine Learning**
 - **Deep Learning**
 - **Computer Vision**
-- **Robotics**
 
 
 
